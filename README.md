@@ -1,1 +1,3 @@
-# pico-8-lua-studies
+# Pico-8/Lua studies.
+
+Thumbnails in each subfolder.
