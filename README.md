@@ -1,4 +1,4 @@
-# Pico-8/Lua studies.
+# Pico-8/Lua
 
 ### EN
 Collection of initial studies in Pico-8/Lua.
