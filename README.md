@@ -1,6 +1,12 @@
 # Pico-8/Lua studies.
 
+### EN
 Collection of initial studies in Pico-8/Lua.
+
+### PT-BR
+Coleção de estudos iniciais em Pico-9/Lua.
+
+---
 
 #### [untitled-01](untitled-01/)
 ![thumb](untitled-01/thumb.png)
