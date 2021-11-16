@@ -4,7 +4,7 @@
 Collection of initial studies in Pico-8/Lua.
 
 ### PT-BR
-Coleção de estudos iniciais em Pico-9/Lua.
+Coleção de estudos iniciais em Pico-8/Lua.
 
 ---
 
